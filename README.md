@@ -23,7 +23,7 @@ Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,tailwind,supabase,mongodb,postgresql,mysql,java,spring,figma,vscode)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,docker,tailwind,supabase,mongodb,postgresql,mysql,java,spring,figma,vscode)](https://skillicons.dev)
 
 ---
 
