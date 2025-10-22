@@ -1,5 +1,17 @@
-# Hey There! 👋  
-**I'm Abdirahman Kooshin** — a passionate **Full Stack Developer** and **4th-year Computer Science student** at **Jamhuriyo University of Science and Technology**.  
+<div align="center">
+
+# 👋 Hello World! I'm Abdirahman Kooshin
+
+### 🚀 Full Stack Developer | CS Student | Tech Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Clean+UI%2FUX+Designs;Solving+Real-World+Problems+Through+Code" alt="Typing SVG" />
+
+</div>
+
+---
+About Me
+---
+a passionate **Full Stack Developer** and **4th-year Computer Science student** at **Jamhuriyo University of Science and Technology**.  
 I specialize in building scalable web applications using the **MERN stack**, **C# with SQL Server**, and **Python (Django & FastAPI)**.  
 
 🌱 Currently learning **Django** and **FastAPI**, with a strong foundation in **Python** programming.  
@@ -29,7 +41,7 @@ Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐
 ---
 
 ### ✉️ **Connect With Me**
-<div align="center">
+<div align="left">
   <div style="background-color:#f5f5f5; padding:1.5rem; border-radius:1rem; display:inline-block;">
 
   <a href="mailto:mankajr11@gmail.com" target="_blank" style="margin: 0 8px;">
@@ -49,6 +61,16 @@ Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🌍_Location-Turkey 🇹🇷 | Originally_from_Somalia 🇸🇴-gray?style=for-the-badge" alt="Location Badge"/>
+
+
+## 🌍 Location
+
+<div align="left">
+
+📍 **Currently in:** Turkey 🇹🇷  
+🏠 **Originally from:** Somalia 🇸🇴  
+🌐 **Open to:** Remote Opportunities & Collaborations
+
+<img src="https://img.shields.io/badge/🌍_Digital_Nomad-Coding_from_Anywhere-4A90E2?style=for-the-badge" alt="Location" />
+
 </div>
