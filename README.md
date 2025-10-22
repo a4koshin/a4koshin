@@ -23,7 +23,7 @@ Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,tailwind,mongodb,postgresql,mysql,java,spring,figma,vscode)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,tailwind,supabase,mongodb,postgresql,mysql,java,spring,figma,vscode)](https://skillicons.dev)
 
 ---
 
@@ -40,23 +40,17 @@ Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐
 
 ---
 
-### ✉️ **Connect With Me**
+### 📞 **Connect With Me**
 <div align="left">
-  <div style="background-color:#f5f5f5; padding:1.5rem; border-radius:1rem; display:inline-block;">
-
-  <a href="mailto:mankajr11@gmail.com" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Email-mankajr11%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="https://abdirahmankooshin.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/a4koshin/assets/main/koosin.jpeg" alt="My Logo" width="50" height="50" style="border-radius:50%;" />
   </a>
-
-  <a href="https://www.linkedin.com/in/abdirahman-kooshin-451b45365" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdirahman%20Kooshin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:mankajr11@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-
-  <a href="https://abdirahmankooshin.vercel.app/" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Portfolio-abdirahmankooshin.vercel.app-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://www.linkedin.com/in/abdirahman-kooshin-451b45365" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-
-  </div>
 </div>
 
 ---
