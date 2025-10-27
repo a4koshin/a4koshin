@@ -55,16 +55,26 @@ Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐
 
 ---
 
-
-
 ## 🌍 Location
 
 <div align="left">
 
-📍 **Currently in:** Turkey 🇹🇷  
-🏠 **Originally from:** Somalia 🇸🇴  
-🌐 **Open to:** Remote Opportunities & Collaborations
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
 
-<img src="https://img.shields.io/badge/🌍_Digital_Nomad-Coding_from_Anywhere-4A90E2?style=for-the-badge" alt="Location" />
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 0.75rem 1.25rem; border-radius: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+  <span>📍</span>
+  <span>      Somalia 🇸🇴</span>
+</div>
+
+<div style="background: linear-gradient(135deg, #4A90E2 0%, #357ABD 100%); color: white; padding: 0.75rem 1.25rem; border-radius: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+  <span>🌐</span>
+  <span>Remote Work</span>
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
