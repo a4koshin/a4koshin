@@ -18,7 +18,6 @@ I specialize in building scalable web applications using the **MERN stack**, **C
 💡 I enjoy crafting clean UI/UX designs, designing REST APIs, and solving real-world problems through code.  
 🗄️ Databases I work with: **MongoDB**, **PostgreSQL**, **MySQL**, and **SQL Server**.  
 
-Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐  
 
 ---
 
