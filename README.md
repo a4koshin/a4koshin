@@ -27,15 +27,7 @@ Check out my [portfolio](https://abdirahmankooshin.vercel.app/) 🌐
 
 ---
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
-  
-  <!-- GitHub activity stats -->
-  ![Kooshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a4koshin&show_icons=true&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-  
-  <!-- Top languages based on your repos (exclude Ruby) -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a4koshin&layout=compact&theme=blueberry&exclude_repo=ruby)
-</details>
+
 
 
 ---
