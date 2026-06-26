@@ -33,7 +33,7 @@ I specialize in building scalable web applications using the **MERN stack**, **C
 
 ### 📞 **Connect With Me**
 <div align="left">
-  <a href="https://abdirahmankooshin.vercel.app/" target="_blank">
+  <a href="https://abdirahmankooshinn.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/a4koshin/assets/main/koosin.jpeg" alt="My Logo" width="50" height="50" style="border-radius:50%;" />
   </a>
 
