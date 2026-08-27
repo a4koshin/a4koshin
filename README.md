@@ -9,7 +9,8 @@
 ---
 
 <div align="left">
-# 👨‍💻 About Me
+  
+## 👨‍💻 About Me
 
 I'm a **Software Engineer & AI/ML Engineer** and a **Computer Science Graduate** from **Jamhuuriyo University of Science and Technology**. I have experience building **full-stack web and mobile applications** and am currently focused on developing **AI systems and Machine Learning solutions** for real-world problems.
 
