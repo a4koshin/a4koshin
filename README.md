@@ -4,7 +4,7 @@
 
 ### 🚀 Software Engineer & AI/ML Engineer | CS Graduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Developing+AI+%26+Machine+Learning+Solutions;Crafting+Clean+UI%2FUX+Experiences;Solving+Real-World+Problems+Through+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+%26+Mobile+Applications;Developing+AI+Systems;Building+Machine+Learning+Solutions;Solving+Real-World+Problems+Through+Technology" alt="Typing SVG" />
 
 ---
 
