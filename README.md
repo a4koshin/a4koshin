@@ -7,24 +7,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Developing+AI+%26+Machine+Learning+Solutions;Crafting+Clean+UI%2FUX+Experiences;Solving+Real-World+Problems+Through+Technology" alt="Typing SVG" />
 
 ---
+
 <div align="left">
-👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a passionate **Software Engineer and AI/ML Engineer** and a **Computer Science Graduate** from **Jamhuuriyo University of Science and Technology**.
-
-I specialize in building **scalable full-stack applications**, developing **AI and Machine Learning solutions**, and creating clean, modern **UI/UX experiences**.
-
-💻 Experienced in **MERN Stack**, **Next.js**, **TypeScript**, and backend development with **Node.js**.
-
-🤖 Interested in **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing (NLP)**, and building intelligent systems that solve real-world problems.
-
-🐍 Working with **Python**, **Django**, **FastAPI**, and Machine Learning technologies.
-
-🗄️ Experienced with **MongoDB**, **PostgreSQL**, **MySQL**, and **SQL Server**.
-
-💡 Passionate about building innovative, scalable, and impactful technology solutions.
-
-🌱 Continuously learning and exploring new technologies in **Software Engineering, AI, and Machine Learning**.
+I'm a **Software Engineer & AI/ML Engineer** and a **Computer Science Graduate** from **Jamhuuriyo University of Science and Technology**. I have experience building **full-stack web and mobile applications** and am currently focused on developing **AI systems and Machine Learning solutions** for real-world problems.
 
 ---
 <div/>
