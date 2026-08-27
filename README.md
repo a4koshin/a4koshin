@@ -1,26 +1,34 @@
 <div align="center">
-
+  
 # 👋 Hello World! I'm Abdirahman Kooshin
 
-### 🚀 Full Stack Developer | CS Student | Tech Enthusiast
+### 🚀 Software Engineer & AI/ML Engineer | CS Graduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Clean+UI%2FUX+Designs;Solving+Real-World+Problems+Through+Code" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Developing+AI+%26+Machine+Learning+Solutions;Crafting+Clean+UI%2FUX+Experiences;Solving+Real-World+Problems+Through+Technology" alt="Typing SVG" />
 
 ---
-About Me
+<div align="left">
+👨‍💻 About Me
+
+I am a passionate **Software Engineer and AI/ML Engineer** and a **Computer Science Graduate** from **Jamhuuriyo University of Science and Technology**.
+
+I specialize in building **scalable full-stack applications**, developing **AI and Machine Learning solutions**, and creating clean, modern **UI/UX experiences**.
+
+💻 Experienced in **MERN Stack**, **Next.js**, **TypeScript**, and backend development with **Node.js**.
+
+🤖 Interested in **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing (NLP)**, and building intelligent systems that solve real-world problems.
+
+🐍 Working with **Python**, **Django**, **FastAPI**, and Machine Learning technologies.
+
+🗄️ Experienced with **MongoDB**, **PostgreSQL**, **MySQL**, and **SQL Server**.
+
+💡 Passionate about building innovative, scalable, and impactful technology solutions.
+
+🌱 Continuously learning and exploring new technologies in **Software Engineering, AI, and Machine Learning**.
+
 ---
-a passionate **Full Stack Developer** and **4th-year Computer Science student** at **Jamhuriyo University of Science and Technology**.  
-I specialize in building scalable web applications using the **MERN stack**, **C# with SQL Server**, and **Python (Django & FastAPI)**.  
-
-🌱 Currently learning **Django** and **FastAPI**, with a strong foundation in **Python** programming.  
-💡 I enjoy crafting clean UI/UX designs, designing REST APIs, and solving real-world problems through code.  
-🗄️ Databases I work with: **MongoDB**, **PostgreSQL**, **MySQL**, and **SQL Server**.  
-
-
----
-
+<div/>
+  
 ### 🛠️ **Tech Stack & Tools**
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,docker,tailwind,supabase,mongodb,postgresql,mysql,java,spring,figma,vscode)](https://skillicons.dev)
 
